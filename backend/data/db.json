@@ -1,0 +1,308 @@
+{
+  "sermons": [
+    {
+      "id": "8c8a9e95-adf8-4bd4-b9df-412a073c3b57",
+      "title": "Walking in Your Prophetic Destiny",
+      "speaker": "Pastor Emmanuel Owusu",
+      "date": "2026-04-18",
+      "series": "Purpose",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "",
+      "description": "Discover how to align with your God-given purpose and walk boldly into your prophetic future.",
+      "plays": 144,
+      "featured": true,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "0bf41d4b-584d-4abb-b805-91afa98343a1",
+      "title": "The Power of the Holy Spirit",
+      "speaker": "Pastor Grace Acheampong",
+      "date": "2026-04-13",
+      "series": "Faith Series",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "",
+      "description": "Understanding the role of the Holy Spirit in the life of every believer.",
+      "plays": 98,
+      "featured": false,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "06949812-0bc4-49aa-95f4-c54211c54508",
+      "title": "Doors That Only Faith Opens",
+      "speaker": "Pastor Emmanuel Owusu",
+      "date": "2026-04-06",
+      "series": "Faith Series",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "",
+      "description": "Faith is the master key — it opens doors that were previously shut in your life.",
+      "plays": 211,
+      "featured": true,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "b0ad101b-c70b-4411-906d-0322bb6e8c48",
+      "title": "Healing: Your Covenant Right",
+      "speaker": "Pastor Grace Acheampong",
+      "date": "2026-03-30",
+      "series": "Healing",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "",
+      "description": "Divine healing is not optional — it is part of the atonement of Jesus Christ.",
+      "plays": 175,
+      "featured": false,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "021927a8-ff5c-4db6-8041-46ac5a668ac8",
+      "title": "Praying with Power and Authority",
+      "speaker": "Pastor Emmanuel Owusu",
+      "date": "2026-03-22",
+      "series": "Prayer",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "",
+      "description": "Prayer is not begging — it is enforcing the will of God in the earth.",
+      "plays": 89,
+      "featured": false,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "cf83f418-8393-4e2d-a9f3-99d3d633bf50",
+      "title": "The Season of Double Harvest",
+      "speaker": "Bishop Dr. Agyei Mensah",
+      "date": "2026-03-15",
+      "series": "Purpose",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "thumbnail": "",
+      "description": "God is releasing a double portion to those who have been faithful in the season of testing.",
+      "plays": 133,
+      "featured": false,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    }
+  ],
+  "events": [
+    {
+      "id": "07d92a24-6ea6-48bf-9802-d7b86cdfd1f4",
+      "title": "Night of Endless Praise & Worship",
+      "category": "Worship Night",
+      "date": "2026-04-27",
+      "time": "6:00 PM – 10:00 PM",
+      "location": "Main Sanctuary",
+      "description": "A night dedicated to pure worship and adoration before the King of kings.",
+      "image": "",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "3b6edf66-843d-4649-bfc8-a1eb4e60cb4d",
+      "title": "Prophetic Summit 2026",
+      "category": "Conference",
+      "date": "2026-05-04",
+      "time": "9:00 AM – 5:00 PM",
+      "location": "Conference Centre, Accra",
+      "description": "Voices of this generation speaking prophetically into the nation.",
+      "image": "",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "667369c0-da5d-4b94-b4ba-d667afa666b9",
+      "title": "Kingdom Kids Summer Festival",
+      "category": "Youth",
+      "date": "2026-05-11",
+      "time": "10:00 AM – 2:00 PM",
+      "location": "Church Courtyard & Hall",
+      "description": "Fun, faith and fellowship for our children and youth.",
+      "image": "",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "5a5d62b1-2399-4613-9f6a-c401c530dc0a",
+      "title": "Prayer & Fasting Week",
+      "category": "Prayer",
+      "date": "2026-05-18",
+      "time": "All Week",
+      "location": "Various Locations",
+      "description": "Seven days of corporate fasting, prayer and seeking the face of God.",
+      "image": "",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    }
+  ],
+  "news": [
+    {
+      "id": "8a9be863-6782-420a-960e-c9644542b915",
+      "title": "Over 500 Salvations at Easter Crusade",
+      "category": "Ministry News",
+      "date": "2026-04-15",
+      "body": "The HLC Easter Crusade 2026 recorded over 500 documented conversions and 23 miraculous healings, marking one of the most impactful events in our history. The three-day crusade held at the Accra Sports Stadium drew crowds of over 20,000 nightly.",
+      "image": "",
+      "published": true,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "3e19aa9d-9f58-4a6e-a4b2-999f648f2437",
+      "title": "April Declared \"The Month of Prophecy\"",
+      "category": "Announcement",
+      "date": "2026-04-01",
+      "body": "Pastor Emmanuel Owusu declared April 2026 as \"The Month of Prophecy\" — calling on all members to come into position to receive and walk in their prophetic word for this season.",
+      "image": "",
+      "published": true,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "3dd47626-c1cb-43d8-a29d-f6fa189c3d43",
+      "title": "New Church Plant in Kumasi",
+      "category": "Missions",
+      "date": "2026-03-20",
+      "body": "Higher Life Church is thrilled to announce the official opening of our Kumasi branch, adding to our growing family of congregations across Ghana. The new branch is led by Pastor Kwame Asante.",
+      "image": "",
+      "published": true,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "7f44d738-b954-4a86-a1d2-4cc3676d9163",
+      "title": "Back to School Drive Blesses 800 Children",
+      "category": "Ministry News",
+      "date": "2026-03-05",
+      "body": "Our annual Back-to-School drive distributed school supplies and uniforms to over 800 children from underprivileged communities in the Accra Metropolitan area through our InnerCity Mission.",
+      "image": "",
+      "published": true,
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "3e8fa006-7267-418e-a5c8-0ec97abeb11f",
+      "title": "Sunday Service Highlights",
+      "type": "photos",
+      "image": "",
+      "videoUrl": "",
+      "description": "Moments from our Sunday morning services",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "1d344e01-213b-4c52-a9ba-ee0d5c48c79c",
+      "title": "Easter Crusade 2026",
+      "type": "events",
+      "image": "",
+      "videoUrl": "",
+      "description": "Unforgettable moments from Easter 2026",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "1ec8aff7-e40c-482b-b856-e9dac49a7f38",
+      "title": "Worship Night — March",
+      "type": "videos",
+      "image": "",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "description": "An evening of powerful worship",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "704a2628-7982-4c57-8234-cf974afbc764",
+      "title": "Community Outreach Photos",
+      "type": "photos",
+      "image": "",
+      "videoUrl": "",
+      "description": "Serving our community with love",
+      "createdAt": "2026-04-21T16:01:01.959Z"
+    },
+    {
+      "id": "b43c321f-63bf-4715-be6a-e0784d95bcd6",
+      "title": "Youth Convention 2025",
+      "type": "events",
+      "image": "",
+      "videoUrl": "",
+      "description": "Young people on fire for God",
+      "createdAt": "2026-04-21T16:01:01.960Z"
+    },
+    {
+      "id": "a5ce962a-772b-46eb-80d4-18a77d101314",
+      "title": "New Year Service",
+      "type": "photos",
+      "image": "",
+      "videoUrl": "",
+      "description": "Crossing over into 2026",
+      "createdAt": "2026-04-21T16:01:01.960Z"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "5fbf81e2-bba3-4602-9d37-c36bc8195ad9",
+      "text": "Sunday 20th April — Today's Article: A Sworn Declaration of Blessing",
+      "link": "",
+      "active": true,
+      "createdAt": "2026-04-21T16:01:01.960Z"
+    },
+    {
+      "id": "d65e27b5-485d-4458-9e61-f4534e61bdff",
+      "text": "Join Pastor every Monday, Wednesday & Friday for Prayer — Get today's Prayer Point",
+      "link": "",
+      "active": true,
+      "createdAt": "2026-04-21T16:01:01.960Z"
+    },
+    {
+      "id": "f9fa9f95-309c-48c7-8f76-184f86af235f",
+      "text": "April 2026 — \"The Month of Prophecy\" — Position yourself to receive!",
+      "link": "",
+      "active": true,
+      "createdAt": "2026-04-21T16:01:01.960Z"
+    },
+    {
+      "id": "b825de1b-7d9e-48fa-a3a6-4ded29341bd6",
+      "text": "Prophetic Summit 2026 — May 4th | Register Now | Limited Space Available",
+      "link": "",
+      "active": true,
+      "createdAt": "2026-04-21T16:01:01.960Z"
+    }
+  ],
+  "contacts": [],
+  "analytics": {
+    "pageViews": {
+      "2026-04-21": 19
+    },
+    "pages": {
+      "home": 6,
+      "admin": 2,
+      "about/pastor": 1,
+      "live/networks": 2,
+      "about/vision": 1,
+      "about/faith": 1,
+      "store/library": 1,
+      "live/qa": 1,
+      "contact/locator": 1,
+      "give/partner": 1,
+      "contact/message": 2
+    },
+    "sermonPlays": {
+      "8c8a9e95-adf8-4bd4-b9df-412a073c3b57": 2
+    },
+    "searches": [
+      "mis",
+      "miss",
+      "missi",
+      "missio",
+      "mission",
+      "missio",
+      "missi",
+      "miss",
+      "mis"
+    ],
+    "devices": {
+      "mobile": 0,
+      "desktop": 19
+    },
+    "visitors": {
+      "2026-04-21": 2
+    }
+  },
+  "settings": {
+    "churchName": "Higher Life Church",
+    "tagline": "Giving your life a higher purpose",
+    "address": "Accra, Ghana",
+    "phone": "+233 (0) 302 000 000",
+    "email": "hello@higherlifechurch.gh",
+    "streamUrl": "",
+    "mapUrl": "",
+    "facebookUrl": "",
+    "youtubeUrl": "",
+    "instagramUrl": ""
+  }
+}
